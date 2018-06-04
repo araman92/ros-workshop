@@ -14,7 +14,7 @@ keypoints:
 
 The Robotics Operating System is not an operating system in the way that Windows and Linux are. It is a structured communication layer built above a host operating system - usually Linux - thatprovides the tools to enable integrated networking between different computingclusters. 
 
-## Minimal example using TurtleSim
+### Minimal example using TurtleSim
 
 1. **Installing TurtleSim**
 
@@ -125,7 +125,7 @@ The Robotics Operating System is not an operating system in the way that Windows
 
    ​
 
-## Create a ROS Workspace (Catkin Workspace)
+### Create a ROS Workspace (Catkin Workspace)
 
 A [catkin workspace](http://wiki.ros.org/catkin/workspaces#Catkin_Workspaces) is a folder where you modify, build, and install catkin packages.The following is the recommended and typical catkin workspace layout:
 
